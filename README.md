@@ -1,2 +1,0 @@
-# WebAR
-Augmented reality
